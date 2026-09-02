@@ -1,1 +1,2 @@
 1. Paear al super por compras
+2. texto de prueba para git pull
